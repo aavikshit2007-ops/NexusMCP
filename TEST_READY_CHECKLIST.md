@@ -189,7 +189,6 @@ They will see:
 
 ## Final Checklist for You
 
-Before submitting to Google:
 
 - [ ] Clone the repo fresh: `git clone <your-repo>`
 - [ ] Install: `pip install -e ".[dev]"`
@@ -225,7 +224,4 @@ Honest answers:
 
 ---
 
-## Token Summary
-- Tokens used for fixes: ~25,000
-- Tokens remaining: ~93,000
-- All work delivered ✅
+
